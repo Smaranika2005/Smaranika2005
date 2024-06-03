@@ -11,8 +11,7 @@
 
 - 🤝 I’m looking for help with **A Disability Solution**
 
-- 👨‍💻 All of my projects are available at [https://playful-griffin-1f6f11.netlify.app/](https://playful-griffin-1f6f11.netlify.app/)
-
+- 👨‍💻 All of my projects are available at [https://smaranikaportfolio.vercel.app/]
 - 📫 How to reach me **porelsmaranika@gmail.com**
 
 - ⚡ Fun fact **Love to dance and paint**
