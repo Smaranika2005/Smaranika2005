@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smaranika2005" alt="smaranika2005" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://playful-griffin-1f6f11.netlify.app/)
+- 🔭 I’m currently working on [English Dictionary](https://english-dictionary-bay.vercel.app/)
 
 - 🌱 I’m currently learning **JAVAScript**
 
