@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVAScript**
 
-- 🤝 I’m looking for help with **A Disability Solution**
+- 🤝 I’m looking for help with **Web-Based Platform for Disaster management**
 
 - 👨‍💻 All of my projects are available at https://smaranikaportfolio05.vercel.app/
 - 📫 How to reach me **porelsmaranika@gmail.com**
