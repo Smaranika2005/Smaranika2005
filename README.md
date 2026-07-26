@@ -6,7 +6,7 @@
 <div align="center">
 
 
-  ![Smaranika's Minecraft Profile Banner](./public/minecraft_banner.png)
+  ![Smaranika's Minecraft Profile Banner](./minecraft_hero_banner.png)
   
   
   <p><kbd>&nbsp;Game_Mode: Creative&nbsp;</kbd> &nbsp; <kbd>&nbsp;Level: Developer&nbsp;</kbd> &nbsp; <kbd>&nbsp;Difficulty: Hardcore&nbsp;</kbd></p>
