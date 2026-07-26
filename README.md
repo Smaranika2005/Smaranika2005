@@ -4,11 +4,10 @@
 =========================================
 -->
 <div align="center">
-  <!-- 3D Minecraft Grass Block from GitHub official topic -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/minecraft/minecraft.png" height="150" />
+
+
+  ![Smaranika's Minecraft Profile Banner](./public/minecraft_banner.png)
   
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=32&pause=1000&color=F6D254&center=true&vCenter=true&random=false&width=950&height=50&lines=Smaranika%27s+World;Survival+Mode%3A+Web+Development;Crafting+Code+Since+2005" alt="Smaranika's World" />
   
   <p><kbd>&nbsp;Game_Mode: Creative&nbsp;</kbd> &nbsp; <kbd>&nbsp;Level: Developer&nbsp;</kbd> &nbsp; <kbd>&nbsp;Difficulty: Hardcore&nbsp;</kbd></p>
   <br>
