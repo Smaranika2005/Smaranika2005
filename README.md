@@ -101,5 +101,5 @@
 
 <div align="center">
   <h2>🏆 Code. Craft. Conquer. 🏆</h2>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/minecraft/minecraft.png" height="60" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/minecraft/minecraft.png" height="160" />
 </div>
